@@ -18,7 +18,7 @@ namespace AppTeste
 #if DEBUG
     	builder.Logging.AddDebug();
 #endif
-//daora
+
             return builder.Build();
         }
     }
