@@ -16,9 +16,9 @@ namespace AppTeste
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+    	builder.Logging.AddDebug();
 #endif
-
+//foda
             return builder.Build();
         }
     }
